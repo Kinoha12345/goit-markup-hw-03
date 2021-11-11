@@ -303,7 +303,7 @@ display: flex;
 .hero {
     background-color: var(--hero-color);
     padding-top: 200px;
-    padding-bottom: 280px;
+    padding-bottom: 200px;
 }
 
 
@@ -349,19 +349,19 @@ h6 {
 
 .feature-1 {
     margin-right: 30px;
-max-width: 270;
+max-width: 270px;
 }
 .feature-2 {
     margin-right: 30px;
-    max-width: 270;
+    max-width: 270px;
     }
     .feature-3 {
         margin-right: 30px;
-        max-width: 270;
+        max-width: 270px;
         }
         .feature-4 {
             margin-right: 30px;
-            max-width: 270;
+            max-width: 270px;
             }
 
 .h3-1 {
@@ -426,49 +426,22 @@ max-width: 270;
 }
 
 .h3-team-card1 {
-    padding-left: 60px;
-    padding-top: 30px;
+    margin-bottom: 10px;
 }
 
 .h3-team-card2 {
-    padding-left: 81px;
-    padding-top: 30px;
+    margin-bottom: 10px;
 }
 
 .h3-team-card3 {
-    padding-left: 67px;
-    padding-top: 30px;
+    margin-bottom: 10px;
 }
 
 .h3-team-card4 {
-    padding-left: 68px;
-    padding-top: 30px;
+    margin-bottom: 10px;
 }
 
-.p-team-card1 {
-    padding-top: 10px;
-    padding-left: 70px;
-    padding-bottom: 30px;
-}
 
-.p-team-card2 {
-    padding-top: 10px;
-    padding-left: 62px;
-    
-    padding-bottom: 30px;
-}
-
-.p-team-card3 {
-    padding-top: 10px;
-    padding-left: 97px;
-    padding-bottom: 30px;
-}
-
-.p-team-card4 {
-    padding-top: 10px;
-    padding-left: 92px;
-    padding-bottom: 30px;
-}
 
 .team-card-1 {
     background-color: var(--white-color);
@@ -518,8 +491,9 @@ border-radius: 0px 0px 4px 4px;
 
 .ul-knob {
     display: flex;
-    padding-left: 295px;
+
     margin-bottom: 50px;
+    justify-content: center;
 }
 
 .knob {
@@ -590,6 +564,12 @@ border-radius: 0px 0px 4px 4px;
 .filtres-li-down {
     margin-right: 30px;
 
+}
+
+.div-team-card {
+    padding-top: 30px;
+    text-align: center;
+    padding-bottom: 30px;
 }
 
 

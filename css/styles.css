@@ -347,29 +347,40 @@ h6 {
     display: flex;
 }
 
+.feature-1 {
+    margin-right: 30px;
+max-width: 270;
+}
+.feature-2 {
+    margin-right: 30px;
+    max-width: 270;
+    }
+    .feature-3 {
+        margin-right: 30px;
+        max-width: 270;
+        }
+        .feature-4 {
+            margin-right: 30px;
+            max-width: 270;
+            }
+
 .h3-1 {
-    padding-right: 30px;
+    margin-bottom: 10px;
 }
 
 .h3-2 {
-    padding-right: 30px;
+    margin-bottom: 10px;
 }
 
 .h3-3 {
-    padding-right: 30px;
+    margin-bottom: 10px;
+} 
+
+.h3-4 {
+    margin-bottom: 10px;
 }
 
-.p-1 {
-padding-right: 30px;
-}
 
-.p-2 {
-    padding-right: 30px;
-}
-
-.p-3 {
-    padding-right: 30px;
-}
 
 .gallery {
     padding-top: 46px;
@@ -377,7 +388,7 @@ padding-right: 30px;
 }
 
 .headline3 {
-    padding-bottom: 50px;
+    margin-bottom: 50px;
 }
 
 .ul-gallery {
@@ -385,11 +396,11 @@ padding-right: 30px;
 }
 
 .img1 {
-    padding-right: 30px;
+    margin-right: 30px;
 }
 
 .img2 {
-    padding-right: 30px;
+    margin-right: 30px;
 }
 
 .team-card {
@@ -508,6 +519,7 @@ border-radius: 0px 0px 4px 4px;
 .ul-knob {
     display: flex;
     padding-left: 295px;
+    margin-bottom: 50px;
 }
 
 .knob {
@@ -536,7 +548,7 @@ border-radius: 0px 0px 4px 4px;
 
 .filtres {
     background-color: var(--white-color);
-    padding-top: 28px;
+    padding-top: 100px;
     padding-bottom: 94px;
 }
 
